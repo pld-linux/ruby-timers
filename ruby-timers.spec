@@ -5,12 +5,12 @@
 %define	pkgname	timers
 Summary:	Pure Ruby one-shot and periodic timers
 Name:		ruby-%{pkgname}
-Version:	1.0.2
+Version:	1.1.0
 Release:	1
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	967f11ab1c43982863fc0dba50b428f1
+# Source0-md5:	5bf756f4d6d838c626f9b47ea281d765
 URL:		https://github.com/tarcieri/timers
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
