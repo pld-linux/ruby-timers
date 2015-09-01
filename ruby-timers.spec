@@ -6,7 +6,7 @@
 Summary:	Pure Ruby one-shot and periodic timers
 Name:		ruby-%{pkgname}
 Version:	1.1.0
-Release:	3
+Release:	4
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
